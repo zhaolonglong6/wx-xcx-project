@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 ## 项目简介
 
 小兔鲜儿项目包含从首页浏览商品，商品详情，微信登录，加入购物车，提交订单，微信支付，订单管理等功能。
-
-当前仓库为小兔鲜儿的**项目模板**。
 
 ### 技术栈
 
@@ -11,37 +8,9 @@
 - 状态管理：[pinia](https://pinia.vuejs.org/zh/)
 - 组件库：[uni-ui](https://uniapp.dcloud.net.cn/component/uniui/uni-ui.html)
 
-## 资料说明
-
-### 📀 视频学习
-
-[https://www.bilibili.com/video/BV1Bp4y1379L/](https://www.bilibili.com/video/BV1Bp4y1379L/?share_source=copy_web&vd_source=2ac50d29193927b3c8597537dc4bc81d)
-
-### 📗 接口文档
-
-[https://www.apifox.cn/apidoc/shared-0e6ee326-d646-41bd-9214-29dbf47648fa/](https://www.apifox.cn/apidoc/shared-0e6ee326-d646-41bd-9214-29dbf47648fa/)
-
-### ✏️ 在线笔记
-
-[https://megasu.gitee.io/uni-app-shop-note/](https://megasu.gitee.io/uni-app-shop-note/)
-
-### 📦 项目源码
-
-[https://gitee.com/Megasu/uniapp-shop-vue3-ts/](https://gitee.com/Megasu/uniapp-shop-vue3-ts/)
-
 ## 运行程序
 
-1. 安装依赖
-
-```shell
-# npm
-npm i --registry=https://registry.npmmirror.com
-
-# pnpm
-pnpm i --registry=https://registry.npmmirror.com
-```
-
-2. 运行程序
+1. 运行程序
 
 ```shell
 # 微信小程序端
@@ -54,7 +23,7 @@ npm run dev:h5
 需 HbuilderX 工具，运行 - 运行到手机或模拟器
 ```
 
-3. 微信开发者工具导入 `/dist/dev/mp-weixin` 目录
+2. 微信开发者工具导入 `/dist/dev/mp-weixin` 目录
 
 ### 工程结构解析
 
@@ -97,7 +66,3 @@ npm run dev:h5
 ├── tsconfig.json              # typescript 配置
 └── vite.config.ts             # vite 配置
 ```
-=======
-# wx-xcx-project
-微信小程序 小商城
->>>>>>> 71dd241b4303838bfe72fb35c898cde88b36a75d
